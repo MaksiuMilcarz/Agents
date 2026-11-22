@@ -1,5 +1,11 @@
 # Model-Agnostic Agentic Engineering Workflow (v2.0)
 
+
+
+# USAGE: init-agents
+
+
+
 A progressive-disclosure, harness-agnostic workflow built on open standards (**`AGENTS.md`** + **`agentskills.io` `SKILL.md`**) with deterministic Python guardrails.
 
 Designed to work unchanged across **Deepseek Harness, Claude Code, Antigravity, Cursor, Gemini CLI, GitHub Copilot**.
